@@ -222,7 +222,7 @@
 
 /*!
  @method     
- @abstract   add images to the queue and starts the operation queue to download them
+ @abstract   adds images to the queue and starts the operation queue to download them
  */
 - (void) addImagesToQueue:(NSArray *)images
 {
