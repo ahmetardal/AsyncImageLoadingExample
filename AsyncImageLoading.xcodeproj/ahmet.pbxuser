@@ -1,0 +1,193 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* AsyncImageLoadingAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1075, 687}}";
+			sepNavSelRange = "{548, 0}";
+			sepNavVisRange = "{0, 548}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* AsyncImageLoading */ = {
+		activeExec = 0;
+		executables = (
+			E3513D2212FFBC08009F1827 /* AsyncImageLoading */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* AsyncImageLoadingViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1075, 688}}";
+			sepNavSelRange = "{1215, 0}";
+			sepNavVisRange = "{0, 1215}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* AsyncImageLoadingViewController.m */ = {
+		uiCtxt = {
+			sepNavFolds = "{\n    c =     (\n                {\n            r = \"{627, 160}\";\n            s = 0;\n        },\n                {\n            r = \"{816, 53}\";\n            s = 0;\n        },\n                {\n            r = \"{897, 56}\";\n            s = 0;\n        },\n                {\n            r = \"{998, 607}\";\n            s = 0;\n        },\n                {\n            r = \"{1645, 40}\";\n            s = 0;\n        },\n                {\n            r = \"{1709, 195}\";\n            s = 0;\n        },\n                {\n            r = \"{1957, 1323}\";\n            s = 0;\n        },\n                {\n            r = \"{3438, 17}\";\n            s = 0;\n        },\n                {\n            r = \"{3555, 25}\";\n            s = 0;\n        },\n                {\n            r = \"{3677, 41}\";\n            s = 0;\n        },\n                {\n            r = \"{3829, 473}\";\n            s = 0;\n        },\n                {\n            r = \"{4405, 21}\";\n            s = 0;\n        },\n                {\n            r = \"{4526, 66}\";\n            s = 0;\n        },\n                {\n            r = \"{4736, 391}\";\n            s = 0;\n        },\n                {\n            r = \"{5293, 693}\";\n            s = 0;\n        },\n                {\n            r = \"{6790, 756}\";\n            s = 0;\n        },\n                {\n            r = \"{7671, 58}\";\n            s = 0;\n        }\n    );\n    r = \"{0, 7740}\";\n    s = 0;\n}";
+			sepNavIntBoundsRect = "{{0, 0}, {1075, 1856}}";
+			sepNavSelRange = "{1843, 0}";
+			sepNavVisRange = "{1588, 1124}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = E3513D2212FFBC08009F1827 /* AsyncImageLoading */;
+		activeSDKPreference = iphonesimulator4.2;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* AsyncImageLoading */;
+		codeSenseManager = E3513D3312FFBC1A009F1827 /* Code sense */;
+		executables = (
+			E3513D2212FFBC08009F1827 /* AsyncImageLoading */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					897,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 318792257;
+			PBXWorkspaceStateSaveDate = 318792257;
+		};
+		perUserProjectItems = {
+			E3513DCD12FFE07D009F1827 = E3513DCD12FFE07D009F1827 /* PBXTextBookmark */;
+			E3513DCE12FFE07D009F1827 = E3513DCE12FFE07D009F1827 /* PBXTextBookmark */;
+			E3513DD612FFE19F009F1827 = E3513DD612FFE19F009F1827 /* PBXTextBookmark */;
+			E3513EE2130065A5009F1827 /* PBXTextBookmark */ = E3513EE2130065A5009F1827 /* PBXTextBookmark */;
+			E3513EE3130065A5009F1827 /* PBXTextBookmark */ = E3513EE3130065A5009F1827 /* PBXTextBookmark */;
+			E3513EE4130065A5009F1827 /* PBXTextBookmark */ = E3513EE4130065A5009F1827 /* PBXTextBookmark */;
+			E3513EE5130065A5009F1827 /* PBXTextBookmark */ = E3513EE5130065A5009F1827 /* PBXTextBookmark */;
+		};
+		sourceControlManager = E3513D3212FFBC1A009F1827 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	E3513D2212FFBC08009F1827 /* AsyncImageLoading */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = AsyncImageLoading;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	E3513D3212FFBC1A009F1827 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	E3513D3312FFBC1A009F1827 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	E3513DCD12FFE07D009F1827 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* AsyncImageLoadingViewController.h */;
+		name = "AsyncImageLoadingViewController.h: 13";
+		rLen = 0;
+		rLoc = 446;
+		rType = 0;
+		vrLen = 1002;
+		vrLoc = 0;
+	};
+	E3513DCE12FFE07D009F1827 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* AsyncImageLoadingViewController.m */;
+		name = "AsyncImageLoadingViewController.m: 217";
+		rLen = 19;
+		rLoc = 8194;
+		rType = 0;
+		vrLen = 3179;
+		vrLoc = 3804;
+	};
+	E3513DD612FFE19F009F1827 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* AsyncImageLoadingViewController.m */;
+		name = "AsyncImageLoadingViewController.m: 157";
+		rLen = 0;
+		rLoc = 4828;
+		rType = 0;
+		vrLen = 3175;
+		vrLoc = 3931;
+	};
+	E3513EE2130065A5009F1827 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* AsyncImageLoadingAppDelegate.h */;
+		name = "AsyncImageLoadingAppDelegate.h: 23";
+		rLen = 0;
+		rLoc = 548;
+		rType = 0;
+		vrLen = 548;
+		vrLoc = 0;
+	};
+	E3513EE3130065A5009F1827 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* AsyncImageLoadingViewController.h */;
+		name = "AsyncImageLoadingViewController.h: 43";
+		rLen = 0;
+		rLoc = 1215;
+		rType = 0;
+		vrLen = 1215;
+		vrLoc = 0;
+	};
+	E3513EE4130065A5009F1827 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* AsyncImageLoadingViewController.m */;
+		name = "AsyncImageLoadingViewController.m: 227";
+		rLen = 0;
+		rLoc = 8352;
+		rType = 0;
+		vrLen = 3477;
+		vrLoc = 3629;
+	};
+	E3513EE5130065A5009F1827 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* AsyncImageLoadingViewController.m */;
+		name = "AsyncImageLoadingViewController.m: 191";
+		rLen = 0;
+		rLoc = 6337;
+		rType = 0;
+		vrLen = 2961;
+		vrLoc = 4652;
+	};
+}
